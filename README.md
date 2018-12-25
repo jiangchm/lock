@@ -1,0 +1,4 @@
+# lock
+基于mysql的主键特性实现了分布式锁
+基于redis的setnx特性实现了分布式锁
+基于zookeeper的节点唯一性和watch机制实现了分布式锁
